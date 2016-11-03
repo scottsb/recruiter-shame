@@ -23,10 +23,10 @@ hopefully they can be avoided.
 ## What these lists will include
 
 * **Only agencies, not employers.** While in-house recruiters can commit the
-  same offenses, the goal is here is to be a warning to companie looking to
+  same offenses, the goal is here is to be a warning to companies looking to
   work with an outside agency.
 * **Only agencies, not individuals.** It is an agency's responsibility to train
-  its employees on what approaches are acceptable, and a recruiter does his/er
+  its employees on what approaches are acceptable, and a recruiter does his/her
   job in the name of his/her employer.
 * **Only agencies based corporately in the United States.** This may change at
   some point but will help limit the initial scope.
