@@ -11,14 +11,14 @@ pay attention to qualification matches, who misrepresent positions, etc. Less
 commonly circulated are the horror stories of how recruitment agencies attempt
 to sell their services to companies with open positions.
 
-Unfortunately, despite just how bad some of these actors are, they stay in
+Unfortunately, despite just how bad some of these agencies are, they stay in
 business, partly because business is done at a distance, so each party doesn't
 know how the other party is being treated. This has the effect of tarnishing
 the entire recruitment industry's reputation, which is unfortunate, as these
 agencies can be truly valuable parts of the employment ecosystem.
 
 The goal of this project is to publicly identify the bad actors so that
-hopefully they can be avoided.
+they can be avoided.
 
 ## What these lists will include
 
@@ -28,8 +28,8 @@ hopefully they can be avoided.
 * **Only agencies, not individuals.** It is an agency's responsibility to train
   its employees on what approaches are acceptable, and a recruiter does his/her
   job in the name of his/her employer.
-* **Only agencies based corporately in the United States.** This may change at
-  some point but will help limit the initial scope.
+* **Only agencies based corporately in the United States.** This is simply to
+  limit scope initially.
 
 ## How to get onto the lists
 
@@ -38,7 +38,7 @@ getting a spot on the lists. These criteria may evolve over time; suggestions
 for changes can be opened as issues on this repository.
 
 There will be extenuating circumstances where violating any of the criteria
-is not offensive, but in these situations the reasoning needs to be clearly
+is not offensive, but in these situations the reasoning ought to be clearly
 communicated in the message and pass the "reasonable person" test.
 
 Anybody can submit an agency based on personal experience. See the
@@ -54,9 +54,9 @@ Anybody can submit an agency based on personal experience. See the
    * It mandates significant areas of skill that the prospect does not possess
      (e.g., recruiting an engineer who has only used Ruby for a position that
      explicitly requires Java experience). 
-   * It is at least two typical career levels off from any position the
-     candidate has ever held (e.g., recruiting a senior architect as a
-     mid-level developer). 
+   * It is at least two typical career levels off from the candidate's
+     recently-held positions (e.g., recruiting a senior architect as a
+     mid-level developer).
 
 ### Recruitment sales criteria of shame
 
@@ -73,9 +73,9 @@ your case. See the [Contribution Guide](CONTRIBUTING.md) for more detail.
 
 ## Related projects
 
-While this project independently conceived, others have also had similar
-ideas. Some of these accept community contributions, but I believe that
-using the GitHub repository format allows more open participation. 
+While this project was independently conceived, others have had similar
+ideas. Some of these accept community contributions, but the GitHub
+repository format allows more open participation. 
 
 * <http://milk.com/home/danfuzz/resume/bad-eggs.html>
 * <http://recruiterhallofshame.blogspot.com/>
@@ -84,4 +84,4 @@ using the GitHub repository format allows more open participation.
 ## Disclaimers
 
 This is private project of individuals and is not endorsed by the employer
-of any person who contributes to this repository. 
+of any person who contributes to this repository.
