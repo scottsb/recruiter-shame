@@ -2,6 +2,6 @@
 
 For an explanation of this list, see the [README](readme.md).
 
-Agency Name | Agency Location | Number of Reports
-------------|-----------------|------------------
+Agency Name | Agency Location | Number of Times Reported
+------------|-----------------|-------------------------
 Wunderland Group | Seattle, WA | 1
